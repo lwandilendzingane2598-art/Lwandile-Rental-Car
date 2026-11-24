@@ -1,0 +1,37 @@
+# Compiled binaries and executables
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+
+# Object files, static/dynamic libraries, and precompiled headers
+*.o
+*.obj
+*.a
+*.lib
+*.lo
+*.la
+*.gch
+
+# Debug and symbol files
+*.pdb
+*.ilk
+*.dSYM/
+
+# Build and output folders
+build/
+bin/
+obj/
+Debug/
+Release/
+x64/
+CMakeFiles/
+cmake-build-*/
+
+# IDE and editor workspace files
+.vs/
+.vscode/
+.idea/
+nbproject/private/
